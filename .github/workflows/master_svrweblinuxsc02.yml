@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'svrweblinuxsc02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A5FF4ED86924FFA916DAA5D1C7712BB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61C9B42528E64BBCAC51C010267A8A3D }}
           package: .
